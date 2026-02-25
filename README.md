@@ -14,7 +14,7 @@ This repo is a work in progress. I'm in the process of documenting and uploading
 
 ## What to Expect
 
-Each writeup will cover the challenge objective, the tools and techniques used, and a step-by-step solution. The goal isn't just to show the answer but to explain the *why* behind each step so it's useful for anyone learning.
+Each writeup will cover the challenge objective, the tools and techniques used, and a step-by-step solution.
 
 ## Disclaimer
 
