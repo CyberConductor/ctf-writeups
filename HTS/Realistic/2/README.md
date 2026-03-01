@@ -77,15 +77,3 @@ AND password = '';
 ```
 
 `OR 1=1` forces the condition to evaluate as true, bypassing authentication.
-
-
-
-## Vulnerability
-
-**SQL Injection, Authentication Bypass**
-
-The application likely:
-
-* Concatenates raw input into SQL queries
-* Does not use parameterised statements
-* Does not sanitise input properly

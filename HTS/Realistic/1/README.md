@@ -73,11 +73,3 @@ To:
 Submit the form.
 
 The server accepts the manipulated value, resulting in a massive vote increase.
-
-
-
-## Vulnerability
-
-**Lack of server-side input validation**
-
-The application trusts client-side controls, allowing arbitrary parameter manipulation.
