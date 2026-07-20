@@ -9,7 +9,7 @@ This repo is a work in progress. I'm in the process of documenting and uploading
 ## Platforms
 
 - **Hack The Box (HTB)**
-- **TryHackMe**
+- **TryHackMe (THM)**
 - **PicoCTF**
 
 ## What to Expect
