@@ -163,12 +163,3 @@ Default credentials allow unauthorized access to administrative interfaces.
 **Impact:**
 
 Exposed management interfaces allow attackers to deploy malicious applications.
-
----
-
-# Lessons Learned
-
-* Default credentials should always be changed before deployment.
-* Administrative panels should not be exposed publicly.
-* Application servers require secure configuration.
-* Service enumeration is essential for identifying attack surfaces.

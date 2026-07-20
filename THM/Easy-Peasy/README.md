@@ -215,12 +215,3 @@ Weak passwords can be recovered through offline cracking.
 **Impact:**
 
 Incorrect system permissions can allow unauthorized privilege elevation.
-
----
-
-# Lessons Learned
-
-* Always perform thorough enumeration before exploitation.
-* Web source code may contain useful hidden information.
-* Password strength is critical because exposed hashes can be cracked.
-* Linux privilege escalation requires systematic checking of permissions and services.

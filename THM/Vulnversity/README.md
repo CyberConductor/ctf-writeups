@@ -235,12 +235,3 @@ Allows attackers to upload executable files and potentially achieve remote code 
 **Impact:**
 
 Misconfigured permissions allowed a low-privileged user to execute commands with elevated privileges.
-
----
-
-# Lessons Learned
-
-* Web enumeration is essential during penetration testing.
-* File upload functionality should always validate file content, not only extensions.
-* SUID permissions should be carefully reviewed.
-* A low-privileged web shell can often lead to full system compromise if privilege escalation paths exist.

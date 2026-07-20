@@ -104,12 +104,3 @@ Automating repetitive conversion tasks.
 ## Problem Solving
 
 Recognizing patterns in encoded data.
-
----
-
-# Lessons Learned
-
-* Data is often hidden through simple encoding techniques.
-* Understanding character encoding is useful in security analysis.
-* Small scripts can automate manual decoding tasks.
-* Basic programming knowledge is valuable for CTF challenges.

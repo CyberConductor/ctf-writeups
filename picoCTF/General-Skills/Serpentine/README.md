@@ -127,12 +127,3 @@ Identifying why expected functionality is not reached.
 ## Source Review
 
 Finding hidden behavior inside application code.
-
----
-
-# Lessons Learned
-
-* Source code can reveal hidden functionality.
-* Understanding program flow is important during security assessments.
-* Reading code is often the fastest way to solve logic-based challenges.
-* Small logic flaws can expose sensitive functionality.

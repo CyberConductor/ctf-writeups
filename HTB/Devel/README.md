@@ -215,12 +215,3 @@ Uploading executable server-side files can lead to command execution.
 **Impact:**
 
 Unpatched Windows systems may allow local users to gain SYSTEM privileges.
-
----
-
-# Lessons Learned
-
-* Anonymous FTP access should be disabled unless required.
-* Uploaded files must be validated and restricted.
-* Web servers should not share insecure directories with file transfer services.
-* Windows systems require regular security updates.

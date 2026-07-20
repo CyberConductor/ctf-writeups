@@ -196,12 +196,3 @@ Unsafe deserialization can allow attackers to manipulate application objects and
 **Impact:**
 
 Misconfigured permissions can allow users to gain elevated privileges.
-
----
-
-# Lessons Learned
-
-* Never deserialize untrusted user input.
-* Application source code can reveal critical vulnerabilities.
-* Web vulnerabilities should always be followed by privilege escalation checks.
-* Secure coding practices are essential for preventing remote code execution.

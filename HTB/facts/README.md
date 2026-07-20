@@ -1,7 +1,4 @@
 # HackTheBox, Facts Machine Writeup
-
-> This writeup was created for educational purposes and demonstrates the exploitation process of the HackTheBox Facts machine in a controlled environment.
-
 ## Machine Information
 
 | Information | Details |
@@ -32,7 +29,6 @@
 - [SSH Key Cracking](#ssh-key-cracking)
 - [User Access](#user-access)
 - [Privilege Escalation to Root](#privilege-escalation-to-root)
-- [Lessons Learned](#lessons-learned)
 
 ---
 
@@ -275,17 +271,6 @@ The script was executed through the privileged binary, resulting in a root shell
 ![Root shell](images/22.png)
 
 *Image 17: Root shell obtained*
-
----
-
-# Lessons Learned
-
-- Always perform thorough enumeration before exploitation.
-- Outdated CMS versions can contain critical vulnerabilities.
-- Authorization checks must be properly implemented on sensitive endpoints.
-- Exposed cloud credentials can lead to complete system compromise.
-- SSH private keys must be protected and never exposed.
-- Privileged execution of unsafe binaries can result in full system compromise.
 
 ---
 

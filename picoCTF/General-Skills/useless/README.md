@@ -113,12 +113,3 @@ Working with remote Linux environments.
 ## Command Analysis
 
 Investigating unexpected behavior in programs and utilities.
-
----
-
-# Lessons Learned
-
-* Linux permissions are a critical part of system security.
-* Always inspect available files after gaining access.
-* Understanding system utilities helps during privilege escalation.
-* Small misconfigurations can expose sensitive information.

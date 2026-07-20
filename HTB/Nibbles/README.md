@@ -193,12 +193,3 @@ An attacker with valid access can upload malicious files and execute commands on
 **Impact:**
 
 Incorrect sudo permissions can allow users to execute privileged commands.
-
----
-
-# Lessons Learned
-
-* CMS version identification is important during web assessments.
-* File upload functionality requires strict validation.
-* Authentication does not always prevent exploitation.
-* Always check sudo permissions after gaining user access.

@@ -193,12 +193,3 @@ Insufficient protection of services can allow unauthorized access.
 **Impact:**
 
 System misconfigurations can allow privilege elevation.
-
----
-
-# Lessons Learned
-
-* Virtual hosts and subdomains should always be enumerated.
-* Attack surfaces may exist outside the main website.
-* SSH credentials should be protected and monitored.
-* Privilege escalation requires systematic enumeration.

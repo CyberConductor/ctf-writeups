@@ -181,12 +181,3 @@ Weak password protection allowed offline password recovery.
 **Impact:**
 
 Misconfigured permissions allowed a low-privileged user to gain elevated access.
-
----
-
-# Lessons Learned
-
-* Always inspect web application source code for exposed secrets.
-* Sensitive files should never be publicly accessible.
-* Password storage must follow secure hashing practices.
-* Linux privilege escalation requires careful enumeration after gaining access.

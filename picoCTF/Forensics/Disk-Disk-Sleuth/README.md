@@ -143,23 +143,3 @@ A disk image is a complete copy of storage media, including:
 ## Deleted Data Recovery
 
 Even after deletion, file information may remain recoverable until overwritten.
-
----
-
-# Mitigation
-
-To protect sensitive data:
-
-* Properly wipe storage before disposal
-* Encrypt sensitive drives
-* Apply secure deletion policies
-* Restrict physical access to storage devices
-
----
-
-# Lessons Learned
-
-* Disk images contain valuable forensic evidence.
-* Deleted files may still be recoverable.
-* File system knowledge is important for investigations.
-* Tools like Sleuth Kit are widely used in digital forensics.

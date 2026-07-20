@@ -128,23 +128,3 @@ Common tools:
 | fsstat | Shows filesystem details    |
 | fls    | Lists files and directories |
 | icat   | Extracts file contents      |
-
----
-
-# Mitigation
-
-To protect systems against forensic data exposure:
-
-* Encrypt storage devices
-* Use secure deletion methods
-* Protect physical access
-* Maintain proper access controls
-
----
-
-# Lessons Learned
-
-* Disk images can reveal important evidence.
-* Metadata provides valuable investigation information.
-* Understanding filesystems is essential for forensic analysis.
-* Sleuth Kit is a powerful tool for digital investigations.

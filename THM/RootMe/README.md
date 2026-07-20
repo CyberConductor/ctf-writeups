@@ -196,12 +196,3 @@ Allows attackers to upload malicious files and execute code on the server.
 **Impact:**
 
 A binary with elevated permissions allowed a normal user to execute commands as root.
-
----
-
-# Lessons Learned
-
-* Always enumerate hidden directories on web applications.
-* File upload functionality should validate file type and content.
-* SUID binaries should be regularly audited.
-* Initial access does not always mean full compromise, privilege escalation is a critical phase of penetration testing.

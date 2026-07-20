@@ -188,12 +188,3 @@ The user flag was retrieved from the user's home directory.
 **Impact:**
 
 An attacker can execute arbitrary commands remotely and gain full control of the system.
-
----
-
-# Lessons Learned
-
-* Always enumerate all exposed services.
-* Outdated services should be patched immediately.
-* Version information can reveal known vulnerabilities.
-* Network-facing services are common attack entry points.

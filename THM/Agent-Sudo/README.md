@@ -229,12 +229,3 @@ Weak passwords allowed recovery through offline cracking techniques.
 **Impact:**
 
 Incorrect system configuration allowed a normal user to gain elevated privileges.
-
----
-
-# Lessons Learned
-
-* HTTP headers can reveal hidden functionality or information.
-* Metadata and hidden content should always be reviewed during investigations.
-* Password strength is critical because exposed credentials can often be cracked offline.
-* Proper Linux permission management is essential to prevent privilege escalation.

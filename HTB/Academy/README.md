@@ -176,12 +176,3 @@ Improperly secured web functionality can expose sensitive information or allow u
 **Impact:**
 
 Incorrect sudo permissions can allow users to execute privileged commands.
-
----
-
-# Lessons Learned
-
-* Web applications should be tested for insecure input handling.
-* Sensitive information should never be exposed through applications.
-* After gaining access, always enumerate sudo permissions.
-* Least privilege principles reduce escalation risks.

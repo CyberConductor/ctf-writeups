@@ -107,12 +107,3 @@ Searching large datasets efficiently.
 ## Networking
 
 Interacting with remote services using TCP connections.
-
----
-
-# Lessons Learned
-
-* Command-line tools are extremely powerful during security testing.
-* Filtering data efficiently saves time during investigations.
-* Netcat is useful for interacting with simple network services.
-* Strong Linux skills are essential for cybersecurity work.

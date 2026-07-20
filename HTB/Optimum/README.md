@@ -209,12 +209,3 @@ An attacker can execute arbitrary commands remotely through a vulnerable HTTP fi
 **Impact:**
 
 Unpatched Windows systems can allow standard users to gain SYSTEM privileges.
-
----
-
-# Lessons Learned
-
-* Service banners can reveal vulnerable software versions.
-* Web applications should always be updated.
-* Initial access should always be followed by privilege escalation enumeration.
-* Regular patch management prevents known exploits.

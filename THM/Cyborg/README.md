@@ -175,12 +175,3 @@ Understanding communication patterns and identifying malicious traffic.
 ## Incident Response
 
 Investigating a compromise and identifying indicators of attack.
-
----
-
-# Lessons Learned
-
-* Network captures can provide valuable evidence after a compromise.
-* Understanding normal traffic makes identifying malicious activity easier.
-* Attackers often leave artifacts that can be discovered through careful analysis.
-* Incident response requires both technical analysis and investigation skills.

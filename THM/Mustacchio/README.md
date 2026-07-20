@@ -201,12 +201,3 @@ Accessible backup files can reveal sensitive application information.
 **Impact:**
 
 Incorrect permissions can allow users to execute privileged operations.
-
----
-
-# Lessons Learned
-
-* XML parsers should disable external entity processing when not required.
-* Source code review can reveal hidden files and sensitive information.
-* Backup files should never be publicly accessible.
-* SUID binaries should be carefully audited.

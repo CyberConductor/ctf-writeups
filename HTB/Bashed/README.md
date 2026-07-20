@@ -187,12 +187,3 @@ Publicly accessible web shells allow attackers to execute commands on the server
 **Impact:**
 
 Incorrect sudo permissions allow normal users to gain root privileges.
-
----
-
-# Lessons Learned
-
-* Development files should never be exposed in production environments.
-* Web shells can lead to complete server compromise.
-* Always perform privilege escalation enumeration after gaining access.
-* Proper file permissions are critical for Linux security.

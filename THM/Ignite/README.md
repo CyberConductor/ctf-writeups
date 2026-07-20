@@ -180,11 +180,3 @@ An attacker can execute arbitrary commands on the server through a vulnerable CM
 **Impact:**
 
 Incorrect permissions allowed escalation from a normal user to root.
-
----
-
-# Lessons Learned
-
-* CMS version enumeration is important during web assessments.
-* Known vulnerabilities should always be checked against discovered software versions.
-* Initial access should always be followed by privilege escalation enumeration.

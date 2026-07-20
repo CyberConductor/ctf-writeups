@@ -188,12 +188,3 @@ Microsoft SMBv1
 **Impact:**
 
 An attacker can execute arbitrary code remotely and obtain unauthorized access to the system.
-
----
-
-# Lessons Learned
-
-* Always enumerate exposed services before attempting exploitation.
-* SMB services should never expose outdated protocols such as SMBv1.
-* Public vulnerabilities can provide complete system compromise when patches are missing.
-* Privilege escalation opportunities often come from outdated software and insecure configurations.

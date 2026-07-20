@@ -188,12 +188,3 @@ Internal services or restricted functionality may become accessible through impr
 **Impact:**
 
 Misconfigured permissions allowed privilege elevation from a normal user to root.
-
----
-
-# Lessons Learned
-
-* Internal services should not be exposed without proper access controls.
-* Web applications require careful endpoint enumeration.
-* Network segmentation is important for protecting internal resources.
-* Always enumerate privilege escalation paths after gaining user access.

@@ -179,12 +179,3 @@ C:\Users\Administrator\Desktop\root.txt
 **Impact:**
 
 An attacker can execute arbitrary code remotely and gain complete control over an affected Windows system.
-
----
-
-# Lessons Learned
-
-* SMB should not expose unnecessary services externally.
-* Systems must be patched regularly.
-* Vulnerability scanners can identify outdated services.
-* Known vulnerabilities can lead to complete system compromise when left unpatched.

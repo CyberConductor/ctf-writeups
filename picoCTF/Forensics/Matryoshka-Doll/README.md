@@ -123,23 +123,3 @@ Recovering embedded or hidden data from files based on known signatures.
 ## Embedded Data
 
 Files may contain additional hidden information that is not visible during normal use.
-
----
-
-# Mitigation
-
-To reduce risks from hidden file content:
-
-* Scan uploaded files
-* Validate file types
-* Remove unnecessary metadata
-* Monitor suspicious file structures
-
----
-
-# Lessons Learned
-
-* File extensions cannot always be trusted.
-* Tools like binwalk can reveal hidden content.
-* Digital evidence may contain multiple layers.
-* Automated analysis helps during forensic investigations.

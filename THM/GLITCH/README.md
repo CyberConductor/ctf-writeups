@@ -186,12 +186,3 @@ Improper handling of application responses exposed information useful for attack
 **Impact:**
 
 Incorrect permissions allowed a user with limited access to gain higher privileges.
-
----
-
-# Lessons Learned
-
-* Always inspect API requests and responses during web assessments.
-* Hidden functionality can often reveal sensitive information.
-* Web applications should properly validate and protect internal data.
-* Privilege escalation enumeration is essential after gaining initial access.

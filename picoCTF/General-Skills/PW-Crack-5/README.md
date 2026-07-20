@@ -109,12 +109,3 @@ Understanding how a program processes input and validates data.
 ## Problem Solving
 
 Finding the fastest approach instead of manually testing possibilities.
-
----
-
-# Lessons Learned
-
-* Source code review can reveal weaknesses in application logic.
-* Automation is an important skill in security testing.
-* Small scripts can save significant time during assessments.
-* Understanding program behavior is often more effective than guessing inputs manually.

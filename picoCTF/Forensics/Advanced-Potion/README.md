@@ -130,23 +130,3 @@ Extracting readable text from files can reveal:
 * Credentials
 * Hidden messages
 * Configuration data
-
----
-
-# Mitigation
-
-To reduce information leakage:
-
-* Remove unnecessary metadata before publishing files
-* Sanitize uploaded files
-* Restrict sensitive information in document properties
-* Review files before sharing externally
-
----
-
-# Lessons Learned
-
-* Files often contain more information than what is visible.
-* Metadata can reveal valuable forensic evidence.
-* Simple tools can uncover hidden information quickly.
-* File analysis is an important skill in security investigations.

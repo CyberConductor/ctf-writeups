@@ -172,12 +172,3 @@ C:\Documents and Settings\Administrator\Desktop\root.txt
 **Impact:**
 
 An unauthenticated attacker can execute arbitrary code remotely and gain complete control of an affected Windows machine.
-
----
-
-# Lessons Learned
-
-* Old operating systems and services can contain critical vulnerabilities.
-* SMB exposure increases attack surface.
-* Regular patching prevents known exploits.
-* Vulnerability scanning helps identify outdated systems.
